@@ -13,7 +13,7 @@ if edad<18:
 else:
     print("usted es mayor") """
 
-def mayoria_edad(Edad):
+""" def mayoria_edad(Edad):
     if Edad<18:
         return 'Es mayor de edad'
     else:
@@ -21,3 +21,5 @@ def mayoria_edad(Edad):
     
 
 print(mayoria_edad(15))
+ """
+
