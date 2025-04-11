@@ -1,12 +1,5 @@
 
-#nombre = input("¿como te llamas?")
-#print ("Hola" , nombre)
-
-"""edad = int (input("Ingrese su edad : "))
-if edad >=18:
-    print ("Eres mayor de edad")
-else:
-    print("No eres mayor de edad")    """
+#Hacer un programa que solicite una edad e imprima “Es mayor” si es mayor de edad ,sino que imprima “Es menor”.
 
 edad = int (input("Ingrese su edad : "))
 
